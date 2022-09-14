@@ -1,0 +1,15 @@
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\bin\Debug\net6.0\SwitchStatementsExercise2.exe
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\bin\Debug\net6.0\SwitchStatementsExercise2.deps.json
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\bin\Debug\net6.0\SwitchStatementsExercise2.runtimeconfig.json
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\bin\Debug\net6.0\SwitchStatementsExercise2.dll
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\bin\Debug\net6.0\SwitchStatementsExercise2.pdb
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.csproj.AssemblyReference.cache
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.AssemblyInfoInputs.cache
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.AssemblyInfo.cs
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.dll
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\refint\SwitchStatementsExercise2.dll
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.pdb
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\SwitchStatementsExercise2.genruntimeconfig.cache
+C:\Users\kayly\Desktop\Repos\SwitchStatementsExercise2\SwitchStatementsExercise2\obj\Debug\net6.0\ref\SwitchStatementsExercise2.dll
